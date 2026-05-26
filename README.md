@@ -35,8 +35,6 @@
 ## 🗝️ Licence key
 - 🔐 Licence key - `AKSHAT_AEGIS`
 - 📌 Instagram Username `sudo_xploit`
-  
-- 👉 [Instagram](https://www.instagram.com/sudo_xploit?igsh=MWN0YWc3N2JyenhoNw==)
 
 ---
 
