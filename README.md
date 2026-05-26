@@ -9,16 +9,16 @@
 ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚══════╝
 ```
 
-# PEGASUS v1.3
+# AegisDroid v1.0
 
 **Android Device Management & Security Audit Tool**
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Termux-lightgrey?style=for-the-badge)](https://github.com/thakur2309/PAGASUS-PRO)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Termux-lightgrey?style=for-the-badge)](https://github.com/your-github-username/AegisDroid)
 [![ADB](https://img.shields.io/badge/Requires-ADB-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com/tools/adb)
-[![Version](https://img.shields.io/badge/Version-1.3-orange?style=for-the-badge)](https://github.com/thakur2309/PAGASUS-PRO/releases)
+[![Version](https://img.shields.io/badge/Version-1.3-orange?style=for-the-badge)](https://github.com/your-github-username/AegisDroid/releases)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
-[![Stars](https://img.shields.io/github/stars/thakur2309/PAGASUS-PRO?style=for-the-badge)](https://github.com/thakur2309/PAGASUS-PRO/stargazers)
+[![Stars](https://img.shields.io/github/stars/your-github-username/AegisDroid?style=for-the-badge)](https://github.com/your-github-username/AegisDroid/stargazers)
 
 <br/>
 
@@ -33,16 +33,16 @@
 
 ---
 ## 🗝️ Licence key
-- 🔐 Licence key - `FIREWALLBREAKER`
+- 🔐 Licence key - `AKSHAT_AEGIS`
 - 📌 Instagram Username `sudo_xploit`
   
 - 👉 [Instagram](https://www.instagram.com/sudo_xploit?igsh=MWN0YWc3N2JyenhoNw==)
 
 ---
 
-## 📌 What is Pegasus?
+## 📌 What is AegisDroid?
 
-**Pegasus** is a powerful Python-based Android Device Management and Security Audit tool built on top of **ADB (Android Debug Bridge)**. It provides an interactive, color-coded terminal menu to remotely manage, monitor, analyze, and audit Android devices — entirely from your PC, with no third-party app required on the phone.
+**AegisDroid** is a powerful Python-based Android Device Management and Security Audit tool built on top of **ADB (Android Debug Bridge)**. It provides an interactive, color-coded terminal menu to remotely manage, monitor, analyze, and audit Android devices — entirely from your PC, with no third-party app required on the phone.
 
 ### Who is it for?
 
@@ -120,17 +120,17 @@
 
 <div align="center">
   
-## Main Menu — Pegasus v1.1
+## Main Menu — AegisDroid v1.1
   
-![Pegasus Terminal 1](Screenshot_2025_1002_113702.jpg)
+![AegisDroid Terminal 1](Screenshot_2025_1002_113702.jpg)
 
-## Main Menu — Pegasus v1.2
+## Main Menu — AegisDroid v1.2
 
-![Pegasus Terminal 2](Screenshot_2025_1003_144711.jpg)
+![AegisDroid Terminal 2](Screenshot_2025_1003_144711.jpg)
 
-## Main Menu — Pegasus v1.3
+## Main Menu — AegisDroid v1.3
 
-![Pegasus Main Menu](Screenshot%202026-02-23%20223428.png)
+![AegisDroid Main Menu](Screenshot%202026-02-23%20223428.png)
 
 </div>
 
@@ -142,11 +142,11 @@
 
 | Platform | Command |
 |----------|---------|
-| **Ubuntu / Debian / Kali** | `sudo apt install -y python3 adb scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip3 install -r requirements.txt && python3 pegasus_v_1.3.py` |
-| **Arch / Manjaro / BlackArch** | `sudo pacman -S python android-tools scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python3 pegasus_v_1.3.py` |
-| **macOS** | `brew install python android-platform-tools scrcpy git && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip3 install -r requirements.txt && python3 pegasus_v_1.3.py` |
-| **Windows** | Install Python + ADB manually (see guide below), then: `git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python pegasus_v_1.3.py` |
-| **📱 Termux (Android)** | `pkg update && pkg install python git android-tools && git clone https://github.com/thakur2309/PAGASUS-PRO.git && cd PAGASUS-PRO && pip install -r requirements.txt && python pegasus_v_1.3.py` |
+| **Ubuntu / Debian / Kali** | `sudo apt install -y python3 adb scrcpy git && git clone https://github.com/your-github-username/AegisDroid.git && cd AegisDroid && pip3 install -r requirements.txt && python3 aegisdroid.py` |
+| **Arch / Manjaro / BlackArch** | `sudo pacman -S python android-tools scrcpy git && git clone https://github.com/your-github-username/AegisDroid.git && cd AegisDroid && pip install -r requirements.txt && python3 aegisdroid.py` |
+| **macOS** | `brew install python android-platform-tools scrcpy git && git clone https://github.com/your-github-username/AegisDroid.git && cd AegisDroid && pip3 install -r requirements.txt && python3 aegisdroid.py` |
+| **Windows** | Install Python + ADB manually (see guide below), then: `git clone https://github.com/your-github-username/AegisDroid.git && cd AegisDroid && pip install -r requirements.txt && python aegisdroid.py` |
+| **📱 Termux (Android)** | `pkg update && pkg install python git android-tools && git clone https://github.com/your-github-username/AegisDroid.git && cd AegisDroid && pip install -r requirements.txt && python aegisdroid.py` |
 
 ---
 
@@ -179,20 +179,14 @@ sudo apt install nmap -y
 
 **Step 6 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/your-github-username/AegisDroid.git
+cd AegisDroid
 ```
 
-**Step 7 — Run Pegasus v1.3**
+**Step 7 — Run AegisDroid v1.3**
 ```bash
-python3 pegasus_v_1.3.py
+python3 aegisdroid.py
 ```
-
-> Want to run an older version?
-> ```bash
-> python3 pegasusV-1.2.py   # Run v1.2
-> python3 pegasus_v1.1.py   # Run v1.1
-> ```
 
 ---
 
@@ -220,20 +214,14 @@ sudo pacman -S nmap
 
 **Step 5 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/your-github-username/AegisDroid.git
+cd AegisDroid
 ```
 
-**Step 6 — Run Pegasus v1.3**
+**Step 6 — Run AegisDroid v1.3**
 ```bash
-python3 pegasus_v_1.3.py
+python3 aegisdroid.py
 ```
-
-> Want to run an older version?
-> ```bash
-> python3 pegasusV-1.2.py   # Run v1.2
-> python3 pegasus_v1.1.py   # Run v1.1
-> ```
 
 ---
 
@@ -327,8 +315,8 @@ winget install Python.Python.3 Google.PlatformTools Genymobile.scrcpy Git.Git
 
 Open **Command Prompt** or **PowerShell**:
 ```powershell
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/your-github-username/AegisDroid.git
+cd AegisDroid
 ```
 
 **Step 7 — Install Python dependencies**
@@ -336,16 +324,10 @@ cd PAGASUS-PRO
 pip install -r requirements.txt
 ```
 
-**Step 8 — Run Pegasus v1.3**
+**Step 8 — Run AegisDroid v1.3**
 ```powershell
-python pegasus_v_1.3.py
+python aegisdroid.py
 ```
-
-> Want to run an older version?
-> ```powershell
-> python pegasusV-1.2.py   # Run v1.2
-> python pegasus_v1.1.py   # Run v1.1
-> ```
 
 > 💡 **Tip:** Use **Windows Terminal** (free from Microsoft Store) for best color rendering.
 
@@ -390,26 +372,20 @@ brew install nmap
 
 **Step 6 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/your-github-username/AegisDroid.git
+cd AegisDroid
 ```
 
-**Step 7 — Run Pegasus v1.3**
+**Step 7 — Run AegisDroid v1.3**
 ```bash
-python3 pegasus_v_1.3.py
+python3 aegisdroid.py
 ```
-
-> Want to run an older version?
-> ```bash
-> python3 pegasusV-1.2.py   # Run v1.2
-> python3 pegasus_v1.1.py   # Run v1.1
-> ```
 
 ---
 
 ### 📱 Termux (Run Directly from Your Android Phone)
 
-> **What is Termux?** Termux is an Android terminal emulator that provides a full Linux environment on your phone — no root required. You can run Pegasus directly from your Android device using Termux.
+> **What is Termux?** Termux is an Android terminal emulator that provides a full Linux environment on your phone — no root required. You can run AegisDroid directly from your Android device using Termux.
 
 > ⚠️ **Note:** `scrcpy` (Screen Mirror — Option 5) does **not work** in Termux because it requires a display server which is not available on Android. All other features work normally.
 
@@ -453,8 +429,8 @@ pkg install nmap -y
 
 **Step 6 — Clone the repository**
 ```bash
-git clone https://github.com/thakur2309/PAGASUS-PRO.git
-cd PAGASUS-PRO
+git clone https://github.com/your-github-username/AegisDroid.git
+cd AegisDroid
 ```
 
 **Step 7 — Install Python dependencies**
@@ -462,16 +438,10 @@ cd PAGASUS-PRO
 pip install -r requirements.txt
 ```
 
-**Step 8 — Run Pegasus v1.3**
+**Step 8 — Run AegisDroid v1.3**
 ```bash
-python pegasus_v_1.3.py
+python aegisdroid.py
 ```
-
-> Want to run an older version?
-> ```bash
-> python pegasusV-1.2.py   # Run v1.2
-> python pegasus_v1.1.py   # Run v1.1
-> ```
 
 ---
 
@@ -489,7 +459,7 @@ adb tcpip 5555
 ```
 4. Unplug the USB cable, then find the target device IP:  
    → Settings → Wi-Fi → Tap connected network → IP Address
-5. Run Pegasus and select **`[2] Connect a Device`**
+5. Run AegisDroid and select **`[2] Connect a Device`**
 6. Enter the IP address — wireless connection is now active ✅
 
 **Method 2 — Manage the same device (localhost)**
@@ -525,7 +495,7 @@ adb connect localhost:5555
 
 
 
-USB Debugging must be enabled on your Android device before Pegasus can connect.
+USB Debugging must be enabled on your Android device before AegisDroid can connect.
 
 ### Enable USB Debugging
 
@@ -544,10 +514,10 @@ Settings → About Phone
 > One-time USB setup required. After that, go fully wireless.
 
 1. Connect device via USB cable
-2. Launch Pegasus → Select **`[2] Connect a Device`**
+2. Launch AegisDroid → Select **`[2] Connect a Device`**
 3. Enter `y` when asked to enable TCP/IP mode
 4. Find your device IP: **Settings → Wi-Fi → Tap connected network → IP Address**
-5. Enter the IP in Pegasus when prompted
+5. Enter the IP in AegisDroid when prompted
 6. Unplug USB — connection is now wireless ✅
 
 ---
@@ -556,15 +526,10 @@ Settings → About Phone
 
 ```bash
 # Linux / macOS — Latest Version
-python3 pegasus_v_1.3.py
+python3 aegisdroid.py
 
 # Windows — Latest Version
-python pegasus_v_1.3.py
-
-# Run older versions
-python3 pegasusV-1.2.py    # v1.2
-python3 pegasus_v1.1.py    # v1.1
-```
+python aegisdroid.py
 
 **Main Menu Preview:**
 
@@ -633,9 +598,9 @@ All generated files are saved in the **same directory** where you run the script
 
 | File | Version | Run Command |
 |------|---------|-------------|
-| `pegasus_v_1.3.py` | v1.3 *(Latest)* | `python3 pegasus_v_1.3.py` |
-| `pegasusV-1.2.py` | v1.2 | `python3 pegasusV-1.2.py` |
-| `pegasus_v1.1.py` | v1.1 | `python3 pegasus_v1.1.py` |
+| `aegisdroid.py` | v1.3 *(Latest)* | `python3 aegisdroid.py` |
+| `` | v1.2 | `python3 ` |
+| `` | v1.1 | `python3 ` |
 | `requirements.txt` | — | `pip install -r requirements.txt` |
 
 ---
@@ -656,7 +621,7 @@ All generated files are saved in the **same directory** where you run the script
 - ✅ **Human-readable storage** — `df -h` for easy reading
 - ✅ **Auto connection logging** — session log written on start and exit
 
-### v1.2 — `pegasusV-1.2.py`
+### v1.2 — ``
 - ✅ Expanded to full 20-option main menu
 - ✅ Power Off and Reboot device remotely
 - ✅ APK Install (sideload) and Uninstall
@@ -669,7 +634,7 @@ All generated files are saved in the **same directory** where you run the script
 - ✅ Remote camera trigger and photo pull
 - ✅ `re` module added for contact parsing
 
-### v1.1 — `pegasus_v1.1.py`
+### v1.1 — ``
 - ✅ Check device info (model, Android version, battery)
 - ✅ USB and Wi-Fi ADB connect and disconnect
 - ✅ Screen recording with custom duration
@@ -692,7 +657,7 @@ This project is licensed under the **MIT License**.
 ```
 MIT License
 
-Copyright (c) 2024 thakur2309
+Copyright (c) 2024 Akshat Dave
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -717,11 +682,11 @@ SOFTWARE.
 
 ## ⚠️ Disclaimer
 
-> **Pegasus is developed strictly for educational and personal use.**
+> **AegisDroid is developed strictly for educational and personal use.**
 >
 > - ✅ Only use this tool on Android devices **you own** or have **explicit written permission** to access.
 > - ❌ Unauthorized access to someone else's device is **illegal** under cybercrime and privacy laws worldwide — including the IT Act (India), CFAA (USA), Computer Misuse Act (UK), and equivalent laws in other countries.
-> - The developer (**thakur2309**) holds **zero liability** for any illegal, unethical, or unauthorized use of this software.
+> - The developer (**Akshat Dave**) holds **zero liability** for any illegal, unethical, or unauthorized use of this software.
 > - All data extraction features (contacts, SMS, call logs) are intended exclusively for **personal data backup** and **security research on your own device**.
 
 ---
@@ -740,14 +705,14 @@ Contributions, bug reports, and feature suggestions are welcome!
 
 ## ⭐ Support the Project
 
-If Pegasus helped you, please consider giving it a **⭐ star** on GitHub.  
+If AegisDroid helped you, please consider giving it a **⭐ star** on GitHub.  
 It helps others find the project and motivates continued development.
 
 ---
 
 👨‍💻 **Author**  
-- Made with ❤️ by **thakur2309** 
-- Name: **Alok Thakur**  
+- Made with ❤️ by **Akshat Dave** 
+- Name: **Akshat Dave**  
 - YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
 
 ---
@@ -758,7 +723,7 @@ It helps others find the project and motivates continued development.
 </a>  
 <br>  
 
-<a href="https://github.com/thakur2309?tab=repositories">
+<a href="https://github.com/Akshat Dave?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
 <br>  
