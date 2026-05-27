@@ -711,8 +711,8 @@ It helps others find the project and motivates continued development.
 
 👨‍💻 **Author**  
 - Made with ❤️ by **Akshat Dave** 
-- Name: **Akshat Dave**  
-- YouTube: [🔥 Firewall Breaker](https://www.youtube.com/@FirewallBreaker09)
+- Name: **Akshat Dave**
+- Refrence By : **//github.com/thakur2309**
 
 ---
 ## 📌 Contact Me  
